@@ -6,7 +6,7 @@
     "description": "Bootstrap project to create a new stubbles project from",
     "require": {
         "php": ">=5.3.0",
-        "stubbles/stubbles-core": "~3.1"
+        "stubbles/core": "~3.1"
     },
     "require-dev": {
         "mikey179/vfsStream": "~1.1",
